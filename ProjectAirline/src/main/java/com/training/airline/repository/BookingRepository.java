@@ -18,7 +18,7 @@ import com.training.airline.model.Booking;
  * related to Booking Entity. All the repository related operations with the
  * booking are handled by this repository interface.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Repository
 public interface BookingRepository extends CrudRepository<Booking, Integer> {

@@ -22,7 +22,7 @@ import com.training.airline.service.UserService;
  * to User Entity. All the requests that are related to User are handled by this
  * controller.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Controller
 @ComponentScan(basePackages = "com.airline")

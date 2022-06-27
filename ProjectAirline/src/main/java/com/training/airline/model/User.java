@@ -25,7 +25,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
  * database which is mapped to this entity class
  * using @NamedStoredProcedureQuery
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Entity(name = "alr_user")
 @NamedStoredProcedureQueries({

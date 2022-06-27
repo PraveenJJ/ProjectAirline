@@ -8,7 +8,7 @@ import java.util.List;
  * represent the properties of each City entity. It has getters and setters to
  * access and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class CityDto implements Serializable {
 

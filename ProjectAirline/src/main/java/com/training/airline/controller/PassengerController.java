@@ -25,7 +25,7 @@ import com.training.airline.service.PassengerService;
  * related to Passenger Entity. All the requests that are related to Passenger
  * are handled by this controller.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Controller
 @ComponentScan(basePackages = "com.airline")

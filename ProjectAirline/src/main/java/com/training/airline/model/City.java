@@ -17,7 +17,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
  * properties of each City entity. It has getters and setters to access and
  * modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Entity(name = "alr_cities")
 public class City implements Serializable {

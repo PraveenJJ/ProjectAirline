@@ -9,7 +9,7 @@ import java.util.List;
  * represent the properties of each Flight entity. It has getters and setters to
  * access and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class FlightDto implements Serializable {
 

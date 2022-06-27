@@ -17,7 +17,7 @@ import com.training.airline.model.FlightAvail;
  * methods related to FlightAvail Entity. All the repository related operations
  * with the flightAvail are handled by this repository interface.
  * 
- * @author 251656
+ * @author Praveen J
  *
  */
 @Repository

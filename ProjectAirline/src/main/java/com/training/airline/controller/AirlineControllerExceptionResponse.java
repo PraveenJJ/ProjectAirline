@@ -12,7 +12,7 @@ import com.training.airline.exception.AirlineControllerException;
  * This is a class to handle responses for all the AirlineControllerExceptions
  * that is being thrown.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @ControllerAdvice
 public class AirlineControllerExceptionResponse {

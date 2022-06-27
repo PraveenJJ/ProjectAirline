@@ -17,7 +17,7 @@ import com.training.airline.exception.ValidationFailureException;
  * This class is a utility class used to have the validation logic. It holds the
  * methods which does the validation for each data input given.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class Validation {
 

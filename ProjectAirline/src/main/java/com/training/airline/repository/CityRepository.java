@@ -13,7 +13,7 @@ import com.training.airline.model.City;
  * related to City Entity. All the repository related operations with the city
  * are handled by this repository interface.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Repository
 public interface CityRepository extends CrudRepository<City, Integer> {

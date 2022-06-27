@@ -15,7 +15,7 @@ import com.training.airline.model.User;
  * related to User Entity. All the repository related operations with the user
  * are handled by this repository interface.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Repository
 public interface UserRepository extends CrudRepository<User, Integer> {

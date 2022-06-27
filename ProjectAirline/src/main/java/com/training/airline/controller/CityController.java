@@ -22,7 +22,7 @@ import com.training.airline.service.CityService;
  * to City Entity. All the requests that are related to city are handled by this
  * controller.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Controller
 @ComponentScan(basePackages = "com.airline")

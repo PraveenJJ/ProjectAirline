@@ -5,7 +5,7 @@ package com.training.airline.exception;
  * thrown in the service layer to the controller layer will be of this class
  * type.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class AirlineServiceException extends RuntimeException {
 

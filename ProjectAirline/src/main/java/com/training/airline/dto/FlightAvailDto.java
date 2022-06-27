@@ -11,7 +11,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
  * to represent the properties of each flight avail entity. It has getters and
  * setters to access and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class FlightAvailDto implements Serializable {
 

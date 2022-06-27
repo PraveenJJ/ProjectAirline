@@ -7,7 +7,7 @@ import java.io.Serializable;
  * private fields to represent the properties of each Flight information. It has
  * getters and setters to access and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class FlightsByRouteDto implements Serializable {
 

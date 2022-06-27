@@ -4,7 +4,7 @@ package com.training.airline.exception;
  * This is the exception class for the validation. Any validation that fails,
  * will be thrown with an exception of this class.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class ValidationFailureException extends RuntimeException {
 

@@ -24,7 +24,7 @@ import com.training.airline.service.FlightService;
  * to Flight Entity. All the requests that are related to flight are handled by
  * this controller.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Controller
 @ComponentScan(basePackages = "com.airline")

@@ -26,7 +26,7 @@ import com.training.airline.utility.Validation;
  * Flight Entity. All the services that are related to flights are handled by
  * this service class.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Service
 @Transactional

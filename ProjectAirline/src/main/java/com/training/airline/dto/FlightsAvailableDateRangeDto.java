@@ -8,7 +8,7 @@ import java.sql.Date;
  * range. It has private fields to represent the properties of each flight. It
  * has getters and setters to access and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class FlightsAvailableDateRangeDto implements Serializable {
 

@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  * This is a class where all the configuration beans are written, which supports
  * the execution of the repository related functionalities.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Configuration
 @EnableJpaRepositories(basePackages = { "com.training.airline.repository" })

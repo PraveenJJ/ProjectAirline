@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.json.MappingJackson2JsonView;
  * This class RESTConfiguration provides the configuration for the format in
  * which the view should be rendered as response to the requests.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Configuration
 public class RESTConfiguration {

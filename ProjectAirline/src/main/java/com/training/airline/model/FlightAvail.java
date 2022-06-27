@@ -21,7 +21,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
  * private fields to represent the properties of each Flight entity. It has
  * getters and setters to access and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @IdClass(FlightAvailId.class)
 @Entity(name = "alr_flightavail")

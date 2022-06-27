@@ -21,7 +21,7 @@ import com.training.airline.model.User;
  * This is a utility class for the service layer. This class provides all the
  * methods for the conversion of model objects into dto object.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class DtoConverter {
 

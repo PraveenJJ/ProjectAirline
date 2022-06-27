@@ -30,7 +30,7 @@ import com.training.airline.utility.Validation;
  * related to FlightAvail Entity. All the services that are related to flights
  * available are handled by this service class.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Service
 @Transactional

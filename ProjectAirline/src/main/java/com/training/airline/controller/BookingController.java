@@ -24,7 +24,7 @@ import com.training.airline.service.BookingService;
  * related to Booking Entity. All the requests that are related to Booking are
  * handled by this controller.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Controller
 @ComponentScan(basePackages = "com.airline")

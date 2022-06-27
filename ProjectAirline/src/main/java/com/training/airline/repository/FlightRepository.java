@@ -15,7 +15,7 @@ import com.training.airline.model.Flight;
  * related to Flight Entity. All the repository related operations with the
  * flight are handled by this repository interface.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Repository
 public interface FlightRepository extends CrudRepository<Flight, String> {

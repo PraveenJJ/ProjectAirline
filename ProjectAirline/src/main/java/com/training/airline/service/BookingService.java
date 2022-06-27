@@ -31,7 +31,7 @@ import com.training.airline.utility.Validation;
  * to Booking Entity. All the services that are related to bookings are handled
  * by this service class.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Service
 @Transactional

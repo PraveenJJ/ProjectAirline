@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
  * This is a utility class for generating the password. This class provides the
  * methods for the generation of encrypted password.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class Password {
 

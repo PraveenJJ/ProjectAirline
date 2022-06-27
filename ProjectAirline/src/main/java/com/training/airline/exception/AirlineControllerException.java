@@ -4,7 +4,7 @@ package com.training.airline.exception;
  * This is the exception class for the controller layer. Any exception that is
  * thrown in the controller layer will be of this class type.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class AirlineControllerException extends RuntimeException {
 

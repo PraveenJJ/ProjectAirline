@@ -19,7 +19,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
  * the properties of each Flight entity. It has getters and setters to access
  * and modify the private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Entity(name = "alr_flights")
 public class Flight implements Serializable {

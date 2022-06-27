@@ -17,7 +17,7 @@ import com.training.airline.model.Passenger;
  * methods related to Passenger Entity. All the repository related operations
  * with the passenger are handled by this repository interface.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Repository
 public interface PassengerRepository extends CrudRepository<Passenger, Integer> {

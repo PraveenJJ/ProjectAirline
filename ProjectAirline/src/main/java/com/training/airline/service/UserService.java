@@ -24,7 +24,7 @@ import com.training.airline.utility.Validation;
  * User Entity. All the services that are related to users are handled by this
  * service class.
  * 
- * @author 251656
+ * @author Praveen J
  */
 @Service
 @Transactional

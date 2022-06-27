@@ -10,7 +10,7 @@ import java.util.Objects;
  * in the FlightAvail class. It has getters and setters to access and modify the
  * private fields.
  * 
- * @author 251656
+ * @author Praveen J
  */
 public class FlightAvailId implements Serializable {
 
